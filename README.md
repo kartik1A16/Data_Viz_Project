@@ -6,15 +6,15 @@ Lightweight, extensible toolkit for loading CSV data, performing statistical ana
 
 ### For detailed instructions, open the linked markdown files in this repository:
 
-1. [Summary](docs/ProjectSummary.md)
+1. [Summary](ProjectSummary.md)
 
-2. [Project Guide](docs/ProjectGuide.md)
+2. [Project Guide](ProjectGuide.md)
 
-3. [QuickReference](docs/QuickReference.md)
+3. [QuickReference](QuickReference.md)
 
-4. [UsageGuide](docs/UsageGuide.md) 
+4. [UsageGuide](UsageGuide.md) 
 
-5. [EXAMPLES](docs/EXAMPLES.md) 
+5. [EXAMPLES](EXAMPLES.md) 
 
 
 [![Attribution](https://img.shields.io/badge/Credit-Required-blue)](https://github.com/kartik1A16)
